@@ -75,6 +75,106 @@ const Mail = () => {
           </span>
         </List>
       </Paper>
+      <Paper
+        elevation={0}
+        style={{
+          borderBottom: "1px solid lightgray",
+          borderTop: "1px solid lightgray",
+        }}
+      >
+        <List>
+          <img
+            src={star}
+            style={{ width: "1.4vw", height: "1.4vw", marginLeft: "0.7vw" }}
+          />
+          <span style={{ marginLeft: "1.2vw", fontWeight: "500" }}>
+            asdsad
+            <span style={{ marginLeft: "10vw", fontWeight: "200" }}>
+              asddsa
+            </span>
+          </span>
+        </List>
+      </Paper>
+      <Paper
+        elevation={0}
+        style={{
+          borderBottom: "1px solid lightgray",
+          borderTop: "1px solid lightgray",
+        }}
+      >
+        <List>
+          <img
+            src={star}
+            style={{ width: "1.4vw", height: "1.4vw", marginLeft: "0.7vw" }}
+          />
+          <span style={{ marginLeft: "1.2vw", fontWeight: "500" }}>
+            asdsad
+            <span style={{ marginLeft: "10vw", fontWeight: "200" }}>
+              asddsa
+            </span>
+          </span>
+        </List>
+      </Paper>
+      <Paper
+        elevation={0}
+        style={{
+          borderBottom: "1px solid lightgray",
+          borderTop: "1px solid lightgray",
+        }}
+      >
+        <List>
+          <img
+            src={star}
+            style={{ width: "1.4vw", height: "1.4vw", marginLeft: "0.7vw" }}
+          />
+          <span style={{ marginLeft: "1.2vw", fontWeight: "500" }}>
+            asdsad
+            <span style={{ marginLeft: "10vw", fontWeight: "200" }}>
+              asddsa
+            </span>
+          </span>
+        </List>
+      </Paper>
+      <Paper
+        elevation={0}
+        style={{
+          borderBottom: "1px solid lightgray",
+          borderTop: "1px solid lightgray",
+        }}
+      >
+        <List>
+          <img
+            src={star}
+            style={{ width: "1.4vw", height: "1.4vw", marginLeft: "0.7vw" }}
+          />
+          <span style={{ marginLeft: "1.2vw", fontWeight: "500" }}>
+            asdsad
+            <span style={{ marginLeft: "10vw", fontWeight: "200" }}>
+              asddsa
+            </span>
+          </span>
+        </List>
+      </Paper>
+      <Paper
+        elevation={0}
+        style={{
+          borderBottom: "1px solid lightgray",
+          borderTop: "1px solid lightgray",
+        }}
+      >
+        <List>
+          <img
+            src={star}
+            style={{ width: "1.4vw", height: "1.4vw", marginLeft: "0.7vw" }}
+          />
+          <span style={{ marginLeft: "1.2vw", fontWeight: "500" }}>
+            asdsad
+            <span style={{ marginLeft: "10vw", fontWeight: "200" }}>
+              asddsa
+            </span>
+          </span>
+        </List>
+      </Paper>
     </div>
   );
 };
